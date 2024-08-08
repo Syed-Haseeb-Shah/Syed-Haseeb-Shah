@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Vision|NLP**
 
-- 💬 Ask me about **Ask me about machine learning and deep learning techniques, data preprocessing and feature engineering, and model development and evaluation. I can also discuss computer vision applications and natural language processing (NLP). Additionally, I’m knowledgeable about creating engaging educational content, tips for starting a machine learning project, and best practices in data science. Feel free to ask about tools and libraries for machine learning, including TensorFlow, PyTorch, and Scikit-Learn.**
+- 💬 **Ask me about machine learning and deep learning techniques, data preprocessing and feature engineering, and model development and evaluation. I can also discuss computer vision applications and natural language processing (NLP). Additionally, I’m knowledgeable about creating engaging educational content, tips for starting a machine learning project, and best practices in data science. Feel free to ask about tools and libraries for machine learning, including TensorFlow, PyTorch, and Scikit-Learn.**
 
 - 📫 How to reach me **haseebsyed948@gmail.com**
 
