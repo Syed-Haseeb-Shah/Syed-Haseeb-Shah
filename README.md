@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Vision|NLP**
 
-- 💬 **Ask me about machine learning and deep learning techniques, data preprocessing and feature engineering,  model development and evaluation. I can also discuss computer vision applications and natural language processing (NLP). Additionally, I’m knowledgeable about creating engaging educational content, tips for starting a machine learning project, and best practices in data science. Feel free to ask about tools and libraries for machine learning, including TensorFlow, PyTorch, and Scikit-Learn.**
+- 💬 Ask me about **Ask me about machine learning and deep learning techniques, data preprocessing and feature engineering, and model development and evaluation. I can also discuss computer vision applications and natural language processing (NLP). Additionally, I’m knowledgeable about creating engaging educational content, tips for starting a machine learning project, and best practices in data science. Feel free to ask about tools and libraries for machine learning, including TensorFlow, PyTorch, and Scikit-Learn.**
 
 - 📫 How to reach me **haseebsyed948@gmail.com**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/syed-haseeb-shah-a77508250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syed-haseeb-shah-a77508250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/syed-haseeb-shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-haseeb-shah" height="30" width="40" /></a>
 <a href="https://instagram.com/beyond_machine_learning" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beyond_machine_learning" height="30" width="40" /></a>
 </p>
 
